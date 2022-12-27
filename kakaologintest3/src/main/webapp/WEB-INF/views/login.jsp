@@ -16,10 +16,9 @@
 	</a>
 	
 	
-	<a href="https://kauth.kakao.com/oauth/logout?client_id=cc8867607cc17b887b9393ecd59ce096
-&logout_redirect_uri=http://localhost:8090/myapp/kakaologin.do">로그아웃
+	<a href="https://kauth.kakao.com/oauth/logout?client_id=cc8867607cc17b887b9393ecd59ce096&logout_redirect_uri=http://localhost:8090/myapp/kakaologin.do">로그아웃
 	</a>
-	
-	 
+	</br>
+	<a href="https://kapi.kakao.com/v1/user/unlink?client_id=cc8867607cc17b887b9393ecd59ce096&logout_redirect_uri=http://localhost:8090/myapp/kakaologin.do">회원탈퇴</a>
 </body>
 </html>
